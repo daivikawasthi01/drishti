@@ -1,0 +1,15 @@
+claude.md
+docs/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Personal reference only, not an analysis deliverable
+data/raw_sample_events.json
