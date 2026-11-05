@@ -1,0 +1,7 @@
+step,users,step_conversion_pct,overall_conversion_pct
+Session Start,267116,100.0,100.0
+View Item,61252,22.93,22.93
+Add to Cart,12545,20.48,4.7
+Begin Checkout,9715,77.44,3.64
+Add Payment Info,5751,59.2,2.15
+Purchase,4419,76.84,1.65
