@@ -1,0 +1,2 @@
+channel_a,channel_b,chi2_statistic,p_value,significant_at_0.05
+organic,cpc,4.5477,0.032964,True

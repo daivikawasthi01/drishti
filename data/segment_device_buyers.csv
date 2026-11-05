@@ -1,0 +1,4 @@
+device,buyers,total_revenue,avg_order_value,avg_purchase_frequency
+desktop,2541,208815.0,64.73,1.27
+mobile,1851,146768.0,62.32,1.27
+tablet,97,6582.0,59.3,1.14
