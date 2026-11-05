@@ -1,0 +1,7 @@
+channel,total_users,buyers,conversion_rate_pct,total_revenue,avg_order_value,repeat_purchase_rate_pct
+organic,112358,1323,1.18,104007.0,66.16,12.32
+referral,55495,1026,1.85,83521.0,66.39,14.62
+(none),75951,1054,1.39,79650.0,63.67,12.9
+(data deleted),18204,688,3.78,50461.0,60.14,14.24
+<Other>,51038,499,0.98,35470.0,58.53,11.62
+cpc,15528,152,0.98,9056.0,54.55,8.55
