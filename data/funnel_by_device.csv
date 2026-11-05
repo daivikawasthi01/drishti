@@ -1,0 +1,19 @@
+device,step,users,step_conversion_pct,overall_conversion_pct
+desktop,Session Start,157079,100.0,100.0
+desktop,View Item,36323,23.12,23.12
+desktop,Add to Cart,7384,20.33,4.7
+desktop,Begin Checkout,5665,76.72,3.61
+desktop,Add Payment Info,3352,59.17,2.13
+desktop,Purchase,2541,75.81,1.62
+mobile,Session Start,107981,100.0,100.0
+mobile,View Item,24810,22.98,22.98
+mobile,Add to Cart,5142,20.73,4.76
+mobile,Begin Checkout,3968,77.17,3.67
+mobile,Add Payment Info,2387,60.16,2.21
+mobile,Purchase,1851,77.55,1.71
+tablet,Session Start,6175,100.0,100.0
+tablet,View Item,1443,23.37,23.37
+tablet,Add to Cart,276,19.13,4.47
+tablet,Begin Checkout,219,79.35,3.55
+tablet,Add Payment Info,134,61.19,2.17
+tablet,Purchase,97,72.39,1.57

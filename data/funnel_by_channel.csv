@@ -1,0 +1,37 @@
+channel,step,users,step_conversion_pct,overall_conversion_pct
+organic,Session Start,111346,100.0,100.0
+organic,View Item,24077,21.62,21.62
+organic,Add to Cart,4508,18.72,4.05
+organic,Begin Checkout,3298,73.16,2.96
+organic,Add Payment Info,1858,56.34,1.67
+organic,Purchase,1323,71.21,1.19
+(none),Session Start,75025,100.0,100.0
+(none),View Item,16492,21.98,21.98
+(none),Add to Cart,3338,20.24,4.45
+(none),Begin Checkout,2430,72.8,3.24
+(none),Add Payment Info,1438,59.18,1.92
+(none),Purchase,1054,73.3,1.4
+referral,Session Start,54380,100.0,100.0
+referral,View Item,12730,23.41,23.41
+referral,Add to Cart,2704,21.24,4.97
+referral,Begin Checkout,2099,77.63,3.86
+referral,Add Payment Info,1394,66.41,2.56
+referral,Purchase,1026,73.6,1.89
+<Other>,Session Start,50777,100.0,100.0
+<Other>,View Item,10439,20.56,20.56
+<Other>,Add to Cart,1962,18.79,3.86
+<Other>,Begin Checkout,1368,69.72,2.69
+<Other>,Add Payment Info,711,51.97,1.4
+<Other>,Purchase,499,70.18,0.98
+(data deleted),Session Start,17210,100.0,100.0
+(data deleted),View Item,4994,29.02,29.02
+(data deleted),Add to Cart,1368,27.39,7.95
+(data deleted),Begin Checkout,1141,83.41,6.63
+(data deleted),Add Payment Info,922,80.81,5.36
+(data deleted),Purchase,688,74.62,4.0
+cpc,Session Start,15450,100.0,100.0
+cpc,View Item,3156,20.43,20.43
+cpc,Add to Cart,561,17.78,3.63
+cpc,Begin Checkout,390,69.52,2.52
+cpc,Add Payment Info,215,55.13,1.39
+cpc,Purchase,152,70.7,0.98
